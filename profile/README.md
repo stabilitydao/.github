@@ -9,6 +9,34 @@ Hi, welcome to the Stability GitHub! ✋
 
 Here the development of the platform, planning and implementation of DeFi strategies, support of integrations and other activities related to the technical side of on-chain asset management take place. 🔨
 
+## Integrations
+
+### Live
+
+<img src="/assets/Chainlink.svg" width="50px" height="50px" alt="Chainlink">
+<img src="/assets/Merkl.svg" width="50px" height="50px" alt="Merkl">
+<img src="/assets/1inch.svg" width="54px" height="50px" alt="1inch">
+<img src="/assets/QuickSwap.svg" width="50px" height="50px" alt="QuickSwap">
+<img src="/assets/Curve.png" width="50px" height="50px" alt="Curve">
+<img src="/assets/Retro.svg" width="50px" height="50px" alt="Retro">
+<img src="/assets/DefiEdge.svg" width="56px" height="50px" alt="DefiEdge">
+<img src="/assets/Ichi.png" width="50px" height="50px" style="border-radius: 100%" alt="Ichi">
+<img src="/assets/Gamma.png" width="50px" height="50px" style="border-radius: 100%" alt="Gamma">
+<img src="/assets/Convex.png" width="50px" height="50px" alt="Convex">
+<img src="/assets/Compound.png" width="55px" height="50px" alt="Compound">
+<img src="/assets/Yearn.svg" width="51px" height="50px" alt="Yearn">
+<img src="/assets/Aave.png" width="50px" height="50px" alt="Aave">
+<img src="/assets/Stargate.svg" width="50px" height="50px" alt="Stargate">
+<img src="/assets/Lido.png" width="50px" height="50px" style="border-radius: 100%" alt="Lido">
+
+### Under development
+
+<img src="/assets/Steer.png" width="50px" height="50px" style="border-radius: 100%" alt="Steer">
+<img src="/assets/Stader.jpeg" width="50px" height="50px" style="border-radius: 100%" alt="Stader Labs">
+<img src="/assets/Balancer.svg" width="50px" height="50px" style="border-radius: 100%" alt="Balancer">
+<img src="/assets/Gyroscope.jpg" width="50px" height="50px" style="border-radius: 100%" alt="Gyroscope">
+
+
 ## 👷 Contributing
 
 ### 💎 Smart contracts
