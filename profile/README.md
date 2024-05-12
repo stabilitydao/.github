@@ -42,24 +42,23 @@ Here the development of the platform, planning and implementation of DeFi strate
 
 ## 👷 Contributing
 
+Current open meta issues.
+
 ### 💎 Smart contracts
 
-* [stability-contracts](https://github.com/stabilitydao/stability-contracts) [issues](https://github.com/stabilitydao/stability-contracts/issues)
-  * [Strategies 2024](https://github.com/stabilitydao/stability-contracts/issues/88)
-  * [Beta SC](https://github.com/stabilitydao/stability-contracts/issues/6)
-  * Labels: [STRATEGY](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3ASTRATEGY), [BASE_STRATEGY](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3A%22BASE+STRATEGY%22), [STRATEGY_UPGRADE](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3A%22STRATEGY+UPGRADE%22), [PLATFORM_UPGRADE](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3A%22PLATFORM+UPGRADE%22), [ADAPTER](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3AADAPTER)
-* Guides
-  * [Strategy Developer's Guide V2](https://github.com/stabilitydao/stability-contracts/blob/main/src/strategies/README.md)
-  * [Core Developer's guide](https://github.com/stabilitydao/stability-contracts/blob/main/src/core/README.md)
+Read the [guides](https://github.com/stabilitydao/stability-contracts?tab=readme-ov-file#guides)
+
+* [Strategies 2024](https://github.com/stabilitydao/stability-contracts/issues/88)
+* [Beta SC](https://github.com/stabilitydao/stability-contracts/issues/6)
+* Labels: [STRATEGY](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3ASTRATEGY), [BASE_STRATEGY](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3A%22BASE+STRATEGY%22), [STRATEGY_UPGRADE](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3A%22STRATEGY+UPGRADE%22), [PLATFORM_UPGRADE](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3A%22PLATFORM+UPGRADE%22), [ADAPTER](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3AADAPTER)
 
 ### 👩‍🚀 User interface
 
-* [stability-ui](https://github.com/stabilitydao/stability-ui) [issues](https://github.com/stabilitydao/stability-ui/issues)
-  * [Beta UI Q2 2024](https://github.com/stabilitydao/stability-ui/issues/161)
+* [Beta UI Q2 2024](https://github.com/stabilitydao/stability-ui/issues/161)
 
 ### 🧞 Subgraph
 
-* [stability-subgraph](https://github.com/stabilitydao/stability-subgraph) [issues](https://github.com/stabilitydao/stability-subgraph/issues)
+* [Required features 2024](https://github.com/stabilitydao/stability-subgraph/issues/12)
 
 ## 🔗 Links
 
