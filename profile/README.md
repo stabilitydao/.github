@@ -18,6 +18,7 @@ Here the development of the platform, planning and implementation of DeFi strate
 <a href="https://merkl.angle.money"><img src="/assets/Merkl.svg" width="50px" height="50px" alt="Merkl"></a>
 <a href="https://1inch.io"><img src="/assets/1inch.svg" width="54px" height="50px" alt="1inch"></a>
 <a href="https://quickswap.exchange"><img src="/assets/QuickSwap.svg" width="50px" height="50px" alt="QuickSwap"></a>
+<a href="https://uniswap.org"><img src="/assets/Uniswap.svg" width="60px" height="60px" alt="Uniswap V3"></a>
 <a href="https://curve.fi"><img src="/assets/Curve.png" width="50px" height="50px" alt="Curve"></a>
 <a href="https://retro.finance"><img src="/assets/Retro.svg" width="50px" height="50px" alt="Retro"></a>
 <a href="https://www.defiedge.io"><img src="/assets/DefiEdge.svg" width="56px" height="50px" alt="DefiEdge"></a>
@@ -38,6 +39,7 @@ Here the development of the platform, planning and implementation of DeFi strate
 <a href="https://www.staderlabs.com"><img src="/assets/Stader.jpeg" width="50px" height="50px" style="border-radius: 100%" alt="Stader Labs"></a>
 <a href="https://balancer.fi"><img src="/assets/Balancer.svg" width="50px" height="50px" style="border-radius: 100%" alt="Balancer"></a>
 <a href="https://gyro.finance"><img src="/assets/Gyroscope.jpg" width="50px" height="50px" style="border-radius: 100%" alt="Gyroscope"></a>
+<a href="https://v2.tetu.io"><img src="/assets/Tetu.png" width="50px" height="50px" alt="Tetu V2"></a>
 </div>
 
 ## 👷 Contributing
