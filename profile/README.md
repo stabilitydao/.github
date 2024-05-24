@@ -15,6 +15,7 @@ Here the development of the platform, planning and implementation of DeFi strate
 
 <div>
 <a href="https://chain.link"><img src="/assets/Chainlink.svg" width="50px" height="50px" alt="Chainlink"></a>
+<a href="https://thegraph.com"><img src="/assets/TheGraph.svg" width="50px" height="50px" alt="The Graph"></a>
 <a href="https://merkl.angle.money"><img src="/assets/Merkl.svg" width="50px" height="50px" alt="Merkl"></a>
 <a href="https://1inch.io"><img src="/assets/1inch.svg" width="54px" height="50px" alt="1inch"></a>
 <a href="https://quickswap.exchange"><img src="/assets/QuickSwap.svg" width="50px" height="50px" alt="QuickSwap"></a>
