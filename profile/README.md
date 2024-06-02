@@ -17,20 +17,20 @@ Here the development of the platform, planning and implementation of DeFi strate
 <a href="https://chain.link"><img src="/assets/Chainlink.svg" width="50px" height="50px" alt="Chainlink"></a>
 <a href="https://thegraph.com"><img src="/assets/TheGraph.svg" width="50px" height="50px" alt="The Graph"></a>
 <a href="https://merkl.angle.money"><img src="/assets/Merkl.svg" width="50px" height="50px" alt="Merkl"></a>
-<a href="https://1inch.io"><img src="/assets/1inch.svg" width="54px" height="50px" alt="1inch"></a>
+<a href="https://1inch.io"><img src="/assets/1inch.svg" width="50px" height="50px" alt="1inch"></a>
 <a href="https://quickswap.exchange"><img src="/assets/QuickSwap.svg" width="50px" height="50px" alt="QuickSwap"></a>
-<a href="https://uniswap.org"><img src="/assets/Uniswap.svg" width="60px" height="60px" alt="Uniswap V3"></a>
+<a href="https://uniswap.org"><img src="/assets/Uniswap.svg" width="50px" height="60px" alt="Uniswap V3"></a>
 <a href="https://curve.fi"><img src="/assets/Curve.png" width="50px" height="50px" alt="Curve"></a>
 <a href="https://retro.finance"><img src="/assets/Retro.svg" width="50px" height="50px" alt="Retro"></a>
-<a href="https://www.defiedge.io"><img src="/assets/DefiEdge.svg" width="56px" height="50px" alt="DefiEdge"></a>
-<a href="https://www.ichi.org"><img src="/assets/Ichi.png" width="50px" height="50px" style="border-radius: 50%" alt="Ichi"></a>
-<a href="https://gamma.xyz"><img src="/assets/Gamma.png" width="50px" height="50px" style="border-radius: 50%" alt="Gamma"></a>
+<a href="https://www.defiedge.io"><img src="/assets/DefiEdge.svg" width="50px" height="50px" alt="DefiEdge"></a>
+<a href="https://www.ichi.org"><img src="/assets/Ichi.png" width="50px" height="50px" alt="Ichi"></a>
+<a href="https://gamma.xyz"><img src="/assets/Gamma.avif" width="50px" height="50px" alt="Gamma"></a>
 <a href="https://www.convexfinance.com"><img src="/assets/Convex.png" width="50px" height="50px" alt="Convex"></a>
-<a href="https://compound.finance"><img src="/assets/Compound.png" width="55px" height="50px" alt="Compound"></a>
+<a href="https://compound.finance"><img src="/assets/Compound.png" width="50px" height="50px" alt="Compound"></a>
 <a href="https://aave.com"><img src="/assets/Aave.png" width="50px" height="50px" alt="Aave"></a>
 <a href="https://yearn.fi"><img src="/assets/Yearn.svg" width="51px" height="50px" alt="Yearn"></a>
 <a href="https://stargate.finance"><img src="/assets/Stargate.svg" width="50px" height="50px" alt="Stargate"></a>
-<a href="https://lido.fi"><img src="/assets/Lido.png" width="50px" height="50px" style="border-radius: 100%" alt="Lido"></a>
+<a href="https://lido.fi"><img src="/assets/Lido.png" width="50px" height="50px" alt="Lido"></a>
 </div>
  
 ### Under development
