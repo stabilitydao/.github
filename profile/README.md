@@ -42,6 +42,8 @@ Here the development of the platform, planning and implementation of DeFi strate
 <a href="https://gyro.finance"><img src="/assets/Gyroscope.jpg" width="50px" height="50px" style="border-radius: 100%" alt="Gyroscope"></a>
 <a href="https://v2.tetu.io"><img src="/assets/Tetu.png" width="50px" height="50px" alt="Tetu V2"></a>
 <a href="https://www.charm.fi"><img src="/assets/Charm.avif" width="50px" height="50px" alt="Charm"></a>
+<a href="https://baseswap.fi/"><img src="/assets/BaseSwap.webp" width="50px" height="50px" alt="BaseSwap"></a>
+<a href="https://a51.finance"><img src="/assets/A51.png" width="50px" height="50px" alt="A51"></a>
 </div>
 
 ## 👷 Contributing
