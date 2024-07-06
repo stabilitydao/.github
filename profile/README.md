@@ -10,6 +10,23 @@ Hi, welcome to the Stability GitHub! ✋
 
 Here the development of the platform, planning and implementation of DeFi strategies, support of integrations and other activities related to the technical side of on-chain asset management take place. 🔨
 
+## Networks
+
+### Supported
+
+<div>
+<a href="https://polygon.technology/"><img src="/networks/polygon.svg" width="50px" height="50px" alt="Polygon"></a>
+<a href="https://www.base.org/"><img src="/networks/base.svg" width="50px" height="50px" alt="Base"></a>
+</div>
+
+### Coming soon
+
+<div>
+<a href="https://arbitrum.io/"><img src="/networks/arbitrum.svg" width="50px" height="50px" alt="Arbitrum"></a>
+<a href="https://ethereum.org/"><img src="/networks/ethereum.svg" width="50px" height="50px" alt="Ethereum"></a>
+</div>
+
+
 ## Integrations
 
 ### Live
@@ -34,7 +51,7 @@ Here the development of the platform, planning and implementation of DeFi strate
 <a href="https://lido.fi"><img src="/assets/Lido.svg" width="50px" height="50px" alt="Lido"></a>
 </div>
  
-### Under development
+### Coming soon
 
 <div>
 <a href="https://steer.finance"><img src="/assets/Steer.svg" width="50px" height="50px" style="border-radius: 100%" alt="Steer"></a>
@@ -49,26 +66,63 @@ Here the development of the platform, planning and implementation of DeFi strate
 
 ## 👷 Contributing
 
-Current open meta issues.
+We are constantly looking for contributors in the following areas.
 
 ### 💎 Smart contracts
 
-Read the [guides](https://github.com/stabilitydao/stability-contracts?tab=readme-ov-file#guides)
+#### Stack
 
-- [Strategies 2024](https://github.com/stabilitydao/stability-contracts/issues/88)
-- [Beta SC](https://github.com/stabilitydao/stability-contracts/issues/6)
-- Labels: [STRATEGY](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3ASTRATEGY), [BASE_STRATEGY](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3A%22BASE+STRATEGY%22), [STRATEGY_UPGRADE](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3A%22STRATEGY+UPGRADE%22), [PLATFORM_UPGRADE](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3A%22PLATFORM+UPGRADE%22), [ADAPTER](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+label%3AADAPTER)
+<div>
+
+[<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/stabilitydao/stability-contracts?logo=solidity">](https://docs.soliditylang.org/en/)
+[<img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/logo.png" alt="Foundry" width="20" />](https://book.getfoundry.sh/)
+<img alt="Static Badge" src="https://img.shields.io/badge/openzeppelin-black?style=flat&logo=openzeppelin">
+
+</div>
+
+#### Issues
+
+[<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/META%20ISSUE">](https://github.com/stabilitydao/stability-contracts/labels/META%20ISSUE)
+[<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/STRATEGY">](https://github.com/stabilitydao/stability-contracts/labels/STRATEGY)
+[<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/PLATFORM%20UPGRADE">](https://github.com/stabilitydao/stability-contracts/labels/PLATFORM%20UPGRADE)
+[<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/NETWORK">](https://github.com/stabilitydao/stability-contracts/labels/NETWORK)
+[<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/ADAPTER">](https://github.com/stabilitydao/stability-contracts/labels/ADAPTER)
+[<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/BASE%20STRATEGY">](https://github.com/stabilitydao/stability-contracts/labels/BASE%20STRATEGY)
+[<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/STRATEGY%20UPGRADE">](https://github.com/stabilitydao/stability-contracts/labels/STRATEGY%20UPGRADE)
+
+[<img src="https://img.shields.io/github/issues-search/stabilitydao/stability-contracts?query=is%3Aissue%20is%3Aopen%20awaiting%20in%3Atitle%20label%3ASTRATEGY&style=for-the-badge&label=%F0%9F%93%9C%20Strategies%20awaiting%20the%20developer&labelColor=%23008800">](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+awaiting+in%3Atitle+label%3ASTRATEGY)
+
+#### Guides
+
+* **[Strategy Developer's Guide V3](./src/strategies/README.md)**
+* **[Core Developer's Guide](./src/core/README.md)**
 
 ### 👩‍🚀 User interface
 
-- [Beta UI Q2 2024](https://github.com/stabilitydao/stability-ui/issues/161)
+#### Stack
 
-### 🧞 Subgraph
+<div>
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/stabilitydao/stability-ui?style=flat&logo=typescript&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Astro-black?style=flat&logo=astro">
+<img alt="Static Badge" src="https://img.shields.io/badge/react-black?style=flat&logo=react">
+<img alt="Static Badge" src="https://img.shields.io/badge/wagmi-black?style=flat&logo=wagmi">
+<img alt="Static Badge" src="https://img.shields.io/badge/viem-black?style=flat&logo=viem">
+<img alt="Static Badge" src="https://img.shields.io/badge/Nano Stores-black?style=flat">
+</div>
 
-- [Required features 2024](https://github.com/stabilitydao/stability-subgraph/issues/12)
+#### Issues
+- [📆 **Beta UI Q3 2024**](https://github.com/stabilitydao/stability-ui/issues/200)
+- [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/META%20ISSUE">](https://github.com/stabilitydao/stability-ui/labels/META%20ISSUE) [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/enhancement ">](https://github.com/stabilitydao/stability-ui/labels/enhancement )
+
+### 🧞 Backend
+
+* [Integration library](https://github.com/stabilitydao/stability)
+* [Subgraph](https://github.com/stabilitydao/stability-subgraph)
+  * [Required features 2024](https://github.com/stabilitydao/stability-subgraph/issues/12)
 
 ## 🔗 Links
 
 - **Website**: [stability.farm](https://stability.farm)
 - **Documentation**: [Stability Book](https://stabilitydao.gitbook.io/stability)
 - **Socials**: [Twitter](https://twitter.com/stabilitydao), [Discord](https://discord.gg/TjuEkkaRQm), [Warpcast](https://warpcast.com/~/channel/stability), [Lens](https://hey.xyz/u/stabilitydao), [Telegram](https://t.me/stabilitydao)
+- **Tracking**: [DefiLlama](https://defillama.com/protocol/stability#information), [DappRadar](https://dappradar.com/dapp/stability), [TweetScout](https://app.tweetscout.io/search?q=stabilitydao)
