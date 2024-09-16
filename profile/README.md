@@ -51,7 +51,7 @@ Here the development of the platform, planning and implementation of DeFi strate
 <a href="https://lido.fi"><img src="/assets/Lido.svg" width="50px" height="50px" alt="Lido"></a>
 </div>
  
-### Coming soon
+### Under development
 
 <div>
 <a href="https://steer.finance"><img src="/assets/Steer.svg" width="50px" height="50px" style="border-radius: 100%" alt="Steer"></a>
@@ -62,6 +62,10 @@ Here the development of the platform, planning and implementation of DeFi strate
 <a href="https://www.charm.fi"><img src="/assets/Charm.svg" width="50px" height="50px" alt="Charm"></a>
 <a href="https://baseswap.fi/"><img src="/assets/BaseSwap.svg" width="50px" height="50px" alt="BaseSwap"></a>
 <a href="https://a51.finance"><img src="/assets/A51.svg" width="50px" height="50px" alt="A51"></a>
+<a href="https://aura.finance"><img src="/assets/aura.png" width="50px" height="50px" alt="Aura"></a>
+<a href="https://www.sushi.com"><img src="/assets/sushi.svg" width="50px" height="50px" alt="Sushi"></a>
+<a href="https://beefy.com"><img src="/assets/beefy.svg" width="50px" height="50px" alt="Beefy"></a>
+
 </div>
 
 ## 👷 Contributing
