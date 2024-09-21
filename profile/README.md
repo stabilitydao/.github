@@ -15,15 +15,15 @@ Here the development of the platform, planning and implementation of DeFi strate
 ### Supported
 
 <div>
-<a href="https://polygon.technology/"><img src="/networks/polygon.svg" width="50px" height="50px" alt="Polygon"></a>
-<a href="https://www.base.org/"><img src="/networks/base.svg" width="50px" height="50px" alt="Base"></a>
+<a href="https://polygon.technology/"><img src="/chains/polygon.svg" width="50px" height="50px" alt="Polygon"></a>
+<a href="https://www.base.org/"><img src="/chains/base.svg" width="50px" height="50px" alt="Base"></a>
 </div>
 
 ### Coming soon
 
 <div>
-<a href="https://arbitrum.io/"><img src="/networks/arbitrum.svg" width="50px" height="50px" alt="Arbitrum"></a>
-<a href="https://ethereum.org/"><img src="/networks/ethereum.svg" width="50px" height="50px" alt="Ethereum"></a>
+<a href="https://arbitrum.io/"><img src="/chains/arbitrum.svg" width="50px" height="50px" alt="Arbitrum"></a>
+<a href="https://ethereum.org/"><img src="/chains/ethereum.svg" width="50px" height="50px" alt="Ethereum"></a>
 </div>
 
 
