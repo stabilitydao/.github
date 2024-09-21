@@ -10,7 +10,7 @@ Hi, welcome to the Stability GitHub! ✋
 
 Here the development of the platform, planning and implementation of DeFi strategies, support of integrations and other activities related to the technical side of on-chain asset management take place. 🔨
 
-## Networks
+## Chains
 
 ### Supported
 
@@ -72,7 +72,7 @@ Here the development of the platform, planning and implementation of DeFi strate
 
 We are constantly looking for contributors in the following areas.
 
-### 💎 Smart contracts
+### 💎 Smart contracts [repo](https://github.com/stabilitydao/stability-contracts)
 
 #### Stack
 
@@ -101,7 +101,15 @@ We are constantly looking for contributors in the following areas.
 * **[Strategy Developer's Guide V3](./src/strategies/README.md)**
 * **[Core Developer's Guide](./src/core/README.md)**
 
-### 👩‍🚀 User interface
+### 📦 Integration library [repo](https://github.com/stabilitydao/stability)
+
+![NPM Version](https://img.shields.io/npm/v/%40stabilitydao%2Fstability?label=NPM%20version)
+![GitHub Tag](https://img.shields.io/github/v/tag/stabilitydao/stability)
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/stabilitydao/stability?label=code%20size)
+![npm bundle size](https://img.shields.io/bundlephobia/min/%40stabilitydao%2Fstability?label=NPM%20bundle%20size)
+
+### 👩‍🚀 User interface [repo](https://github.com/stabilitydao/stability-ui)
 
 #### Stack
 
@@ -118,11 +126,9 @@ We are constantly looking for contributors in the following areas.
 - [📆 **Beta UI Q3 2024**](https://github.com/stabilitydao/stability-ui/issues/200)
 - [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/META%20ISSUE">](https://github.com/stabilitydao/stability-ui/labels/META%20ISSUE) [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/enhancement ">](https://github.com/stabilitydao/stability-ui/labels/enhancement )
 
-### 🧞 Backend
+### 🧞 Subgraph [repo](https://github.com/stabilitydao/stability-subgraph)
 
-* [Integration library](https://github.com/stabilitydao/stability)
-* [Subgraph](https://github.com/stabilitydao/stability-subgraph)
-  * [Required features 2024](https://github.com/stabilitydao/stability-subgraph/issues/12)
+* [Required features 2024](https://github.com/stabilitydao/stability-subgraph/issues/12)
 
 ## 🔗 Links
 
