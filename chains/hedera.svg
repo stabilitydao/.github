@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2500 2500"><defs><style>.cls-1{fill:#fff;}</style></defs><title>hedera--logo</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path d="M1250,0C559.64,0,0,559.64,0,1250S559.64,2500,1250,2500s1250-559.64,1250-1250S1940.36,0,1250,0"/><path class="cls-1" d="M1758.12,1790.62H1599.38V1453.13H900.62v337.49H741.87V696.25H900.62v329.37h698.76V696.25h158.75Zm-850-463.75h698.75V1152.5H908.12Z"/></g></g></svg>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_301_755)">
+<path d="M16 0C7.16339 0 0 7.16339 0 16C0 24.8366 7.16339 32 16 32C24.8366 32 32 24.8366 32 16C32 7.16339 24.8366 0 16 0Z" fill="black"/>
+<path d="M22.5041 22.9199H20.4722V18.6001H11.5281V22.9199H9.49609V8.91199H11.5281V13.1279H20.4722V8.91199H22.5042L22.5041 22.9199ZM11.6241 16.9839H20.5681V14.752H11.6241V16.9839Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_301_755">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>
