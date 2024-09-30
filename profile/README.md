@@ -10,22 +10,7 @@ Hi, welcome to the Stability GitHub! ✋
 
 Here the development of the platform, planning and implementation of DeFi strategies, support of integrations and other activities related to the technical side of on-chain asset management take place. 🔨
 
-## Chains
-
-### Supported
-
-<div>
-<a href="https://polygon.technology/"><img src="/chains/polygon.svg" width="50px" height="50px" alt="Polygon"></a>
-<a href="https://www.base.org/"><img src="/chains/base.svg" width="50px" height="50px" alt="Base"></a>
-</div>
-
-### Coming soon
-
-<div>
-<a href="https://arbitrum.io/"><img src="/chains/arbitrum.svg" width="50px" height="50px" alt="Arbitrum"></a>
-<a href="https://ethereum.org/"><img src="/chains/ethereum.svg" width="50px" height="50px" alt="Ethereum"></a>
-</div>
-
+[<img src="https://raw.githubusercontent.com/stabilitydao/stability/main/chains.png" alt="Chains" />](https://stability.farm/chains)
 
 ## Integrations
 
@@ -124,7 +109,7 @@ We are constantly looking for contributors in the following areas.
 
 #### Issues
 - [📆 **Beta UI Q3 2024**](https://github.com/stabilitydao/stability-ui/issues/200)
-- [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/META%20ISSUE">](https://github.com/stabilitydao/stability-ui/labels/META%20ISSUE) [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/enhancement ">](https://github.com/stabilitydao/stability-ui/labels/enhancement )
+- [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/META%20ISSUE">](https://github.com/stabilitydao/stability-ui/labels/META%20ISSUE) [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/Enhancement ">](https://github.com/stabilitydao/stability-ui/labels/enhancement ) [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/Design%20System%20Integration">](https://github.com/stabilitydao/stability-ui/labels/design%20system%20integration )
 
 ### 🧞 Subgraph [repo](https://github.com/stabilitydao/stability-subgraph)
 
