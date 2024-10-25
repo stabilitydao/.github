@@ -1,9 +1,213 @@
-<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="100" height="100" fill="url(#pattern0_669_511)"/>
-<defs>
-<pattern id="pattern0_669_511" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_669_511" transform="scale(0.00666667)"/>
-</pattern>
-<image id="image0_669_511" width="150" height="150" xlink:href="data:image/jpeg;base64,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"/>
-</defs>
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 264.58333 264.58334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Stablecoin Logo - Meteor on Gradient Circle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.38885732"
+     inkscape:cx="245.59136"
+     inkscape:cy="216.01754"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient18625">
+      <stop
+         style="stop-color:#91f5f5;stop-opacity:1;"
+         offset="0"
+         id="stop18621" />
+      <stop
+         style="stop-color:#91f5f5;stop-opacity:0;"
+         offset="1"
+         id="stop18623" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient18315">
+      <stop
+         style="stop-color:#ffb4ff;stop-opacity:1;"
+         offset="0"
+         id="stop18311" />
+      <stop
+         style="stop-color:#ffb4ff;stop-opacity:0;"
+         offset="1"
+         id="stop18313" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1484.4965,0,0,-1484.4965,3915.412,-658.24466)"
+       spreadMethod="pad"
+       id="linearGradient2666">
+      <stop
+         style="stop-opacity:1;stop-color:#f0ff9b"
+         offset="0"
+         id="stop2656" />
+      <stop
+         style="stop-opacity:1;stop-color:#f0ff9b"
+         offset="0.1"
+         id="stop2658" />
+      <stop
+         style="stop-opacity:1;stop-color:#f0ff9b"
+         offset="0.17891106"
+         id="stop2660" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffb4ff"
+         offset="0.4"
+         id="stop2662" />
+      <stop
+         style="stop-opacity:1;stop-color:#91f5f5"
+         offset="1"
+         id="stop2664" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24182-2"
+       id="linearGradient30206"
+       gradientUnits="userSpaceOnUse"
+       x1="4964.0518"
+       y1="-3370.1433"
+       x2="5049.6582"
+       y2="-3185.6558"
+       gradientTransform="matrix(0.12373487,0,0,-0.12373487,-486.05301,-219.42649)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient24182-2">
+      <stop
+         style="stop-color:#232832;stop-opacity:1"
+         offset="0"
+         id="stop24178" />
+      <stop
+         style="stop-color:#232832;stop-opacity:0;"
+         offset="1"
+         id="stop24180" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18315"
+       id="radialGradient18317"
+       cx="53.485619"
+       cy="26.034004"
+       fx="53.485619"
+       fy="26.034004"
+       r="132.29167"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1372415,0.86882376,-1.7670177,2.3129202,-159.8792,112.00033)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18625"
+       id="radialGradient18627"
+       cx="51.566814"
+       cy="251.38992"
+       fx="51.566814"
+       fy="251.38992"
+       r="132.29167"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4278768,-0.45248777,0.40213256,1.2691036,-308.92662,142.70605)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1983">
+      <g
+         id="g1972"
+         transform="translate(198.48364,-192.6505)">
+        <circle
+           style="fill:#f0ff9b;fill-opacity:1;stroke:none;stroke-width:0.556103;stroke-linecap:round;stroke-linejoin:round"
+           id="circle877"
+           cx="-66.249619"
+           cy="324.94214"
+           r="132.29167"
+           inkscape:export-filename="C:\Users\Owner\Desktop\Gyro G Yellow on Meteor Circle.png"
+           inkscape:export-xdpi="33.671467"
+           inkscape:export-ydpi="33.671467" />
+        <circle
+           style="fill:url(#radialGradient18627);fill-opacity:1;stroke:none;stroke-width:0.556103;stroke-linecap:round;stroke-linejoin:round"
+           id="circle15235"
+           cx="-66.249619"
+           cy="324.94214"
+           r="132.29167"
+           inkscape:export-filename="C:\Users\Owner\Desktop\Gyro G Yellow on Meteor Circle.png"
+           inkscape:export-xdpi="33.671467"
+           inkscape:export-ydpi="33.671467" />
+        <ellipse
+           style="fill:url(#radialGradient18317);fill-opacity:1;stroke:none;stroke-width:0.556103;stroke-linecap:round;stroke-linejoin:round"
+           id="circle12010"
+           cx="-66.249619"
+           cy="324.94214"
+           inkscape:export-filename="C:\Users\Owner\Desktop\Gyro G Yellow on Meteor Circle.png"
+           inkscape:export-xdpi="33.671467"
+           inkscape:export-ydpi="33.671467"
+           rx="132.29201"
+           ry="132.29167" />
+      </g>
+      <g
+         id="g867">
+        <path
+           id="path30198"
+           style="fill:#232832;fill-opacity:1;stroke-width:0.499745;stroke-linecap:round;stroke-linejoin:round"
+           d="M 132.29162,28.844645 A 103.44705,103.44705 0 0 0 28.844608,132.29165 a 103.44705,103.44705 0 0 0 103.447012,103.447 103.44705,103.44705 0 0 0 86.84429,-47.40598 h 0.10803 v -66.85091 h -30.44838 v 56.86011 a 73.292331,73.292331 0 0 1 -56.50394,27.24203 73.292331,73.292331 0 0 1 -73.292243,-73.29225 73.292331,73.292331 0 0 1 73.292243,-73.292261 73.292331,73.292331 0 0 1 60.89007,32.95729 l 25.23575,-16.794484 a 103.44705,103.44705 0 0 0 -86.12582,-46.31755 z m 40.21915,92.602685 c -7.4601,11.22421 -17.24053,21.32216 -27.24276,31.31242 h 43.52737 v -31.27799 z" />
+        <path
+           style="fill:#232832;fill-opacity:1;stroke:none;stroke-width:0.137873;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 60.439392,145.40773 C 79.240645,112.41797 111.08555,85.573705 141.7912,76.293726 85.171592,129.62297 72.961967,175.32354 80.591904,184.02081 L 66.042057,194.65957 44.260896,147.8874 Z"
+           id="path30200"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:url(#linearGradient30206);fill-opacity:1;stroke:none;stroke-width:0.0928012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 66.042057,194.65957 14.549847,-10.63876 c 6.547616,5.55641 31.390226,-4.72798 45.730836,-15.78396 l 32.16687,13.38813 c -9.04468,7.54714 -19.13749,15.58227 -33.78064,23.15039 l -11.88272,12.28871 -46.784193,-22.40451"
+           id="path30202"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
+      <circle
+         style="fill:#f0ff9b;fill-opacity:0;stroke:none;stroke-width:0.556103;stroke-linecap:round;stroke-linejoin:round"
+         id="circle30654"
+         cx="132.23402"
+         cy="132.29164"
+         r="132.29167"
+         inkscape:export-filename="C:\Users\Owner\Desktop\Gyro G Yellow on Meteor Circle.png"
+         inkscape:export-xdpi="33.671467"
+         inkscape:export-ydpi="33.671467" />
+    </g>
+  </g>
 </svg>
