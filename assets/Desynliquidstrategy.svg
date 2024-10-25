@@ -1,5 +1,6 @@
-<svg width="400px" height="400px" viewBox="0 -1 31 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>logo desyn-white</title>
+<svg width="400px" height="400px" viewBox="-4 -1 38 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <circle cx="15" cy="14" r="19" fill="white"/>
+
     <defs>
         <rect id="path-1" x="0" y="0" width="90" height="28"></rect>
     </defs>
