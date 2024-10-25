@@ -1,9 +1,14 @@
-<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="100" height="100" fill="url(#pattern0_669_513)"/>
-<defs>
-<pattern id="pattern0_669_513" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_669_513" transform="scale(0.015625)"/>
-</pattern>
-<image id="image0_669_513" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAADeklEQVR4Xu2bPU8UQRjHKbT2LMjtvRB8I1ErSgpNqI3s0QmJGkNloZ9Begsbrc/SDr8LtaGzRT4BMkeGHL+Z3Xlm55m9PfSf/Jpjnpf/s5fdHRhWVlrSqJhMR0V5LmHY3zli/NKJplJh/k5qWJSf2Lg+kynrLlyjfnnqNpqdE/bRuori5bansVZZXX2xyb5aERtZNOwvm3q97R6LdwXTG/tVFQt2FfatogXd6JoxKE/Zf5KcAksCfTTSUl15kvpNcBIuKfQlUs67/eD+3vmtH3+uwTWaNHo6MIkWNE64Xgv6qxWDq3j/8WwGP/dRPD1wzFZh1jLeR0x9A316NVrd3WSgD1tc2gRNhmA8ia1vGF+8utOvIwb5YPFQAzQnhXlSerDQ7zVdLDhhgA8WDhWnMSnMk9LDFXWPRmexBxaVFKcxKcyT2oeFvmcaFTtTLiSPHh44BSWFaUwK88zD+pb1tX1nLRkW5SH9J119w5PHH5z1FhqTwjwWU4v15+F6H/SfPIC6wjQmhXlS+5gn2vz+62OnEGGMhcakMI+Fdcn+m2MnxkfUAFjEx7Pn35w4C82FYLxla+uzU9cH43yoD6CuMA2GYLxWH/NkGcDbg19OrIUmq2CcxeRmvSoY62NmftzfOeIPfLBAHYwlNBwynqOHSyZT0dU3sEAIxqfC/CEYX0W2ARgkLyUh1tf2nLwSmKeKrAOIbYYwTwzMVUUrA7AwZxWMawJzVtHqANqE/VchHoCBRboK+64jagAxz+FFUfce4iNqAIaNmi3xotl4IPtd4jzRA7B06dtgNmrsT0rjAdwUzLGW7/zwX2HYL3+KN0M3kajd4E2ktQHcnv52dn4hTAzzaJN9ADTVFObV4moAuYZAI01hXg2umf8/gJXZKc9DLkqFRprCvMkMyi/0P5OzUAGaiYX5NKDvK+U4D3T31VfHlJQ776ZOvlSGoSO2DNCAxqQwjwb068gcImCQBjQXgvEqSM8VO4EKDD0Ho6pgrBb0WSsGa0CjVTBOA/oL6l5vN8sxOZolXK9B78IL/YnERFrQdE7zBvqKUo5HI41nG0C/5jxQjJzECmQ3XyReeSrHNyEbWleecgp1FPatqlxPBw0a3+2biMUXDftrRdJzxTkRnf/NLbPDYmPZyXWjS9Gohb8xjH2nPLsoNp4K8y+dxoOJ6DDWJe39g/RfbhwEWkV/saIAAAAASUVORK5CYII="/>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="400" height="400" id="Слой_1" x="0px" y="0px" viewBox="0 37 159 75" style="enable-background:new 0 0 462 149.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D8E2FF;}
+	.st1{fill:#04A8F0;}
+	.st2{fill:#686DF1;}
+</style>
+<path class="st0" d="M242.8,57.9v60.7c-0.5,0.2-1.4,0.4-2.4,0.6c-1,0.2-2.1,0.4-3.3,0.4c-2.4,0-4.1-0.4-5.1-1.3  c-1-0.9-1.5-2.5-1.5-4.6V57.9h-20.6c-0.4-0.5-0.7-1.3-1-2.1c-0.2-0.9-0.3-1.8-0.3-2.9c0-1.7,0.4-3,1.2-3.9c0.9-0.9,2-1.4,3.4-1.4  h50.6c0.3,0.5,0.6,1.1,0.8,2c0.3,0.9,0.5,1.8,0.5,2.8c0,3.7-1.5,5.5-4.5,5.5H242.8z"/>
+<path class="st0" d="M285.2,119c-2,0-3.6-0.6-4.9-1.9c-1.2-1.3-1.9-2.9-1.9-4.9V54.2c0-2,0.6-3.6,1.9-4.8c1.2-1.3,2.9-1.9,4.9-1.9  h38.5c0.4,0.5,0.7,1.1,0.9,2c0.3,0.9,0.5,1.8,0.5,2.8c0,1.7-0.4,3.1-1.3,4c-0.8,0.9-1.9,1.4-3.3,1.4h-29.8v19.5h29.4  c0.4,0.5,0.7,1.1,0.9,2c0.3,0.9,0.5,1.8,0.5,2.8c0,1.8-0.4,3.1-1.3,4c-0.8,0.9-1.9,1.3-3.3,1.3h-26.3v21.4h33.5  c0.3,0.5,0.6,1.1,0.9,2c0.3,0.9,0.5,1.8,0.5,2.8c0,1.8-0.4,3.2-1.3,4.1c-0.8,0.9-1.9,1.3-3.3,1.3H285.2z"/>
+<path class="st0" d="M369.4,57.9v60.7c-0.5,0.2-1.4,0.4-2.4,0.6c-1,0.2-2.1,0.4-3.3,0.4c-2.4,0-4.1-0.4-5.1-1.3  c-1-0.9-1.5-2.5-1.5-4.6V57.9h-20.6c-0.4-0.5-0.7-1.3-1-2.1c-0.2-0.9-0.3-1.8-0.3-2.9c0-1.7,0.4-3,1.2-3.9c0.9-0.9,2-1.4,3.4-1.4  h50.6c0.3,0.5,0.6,1.1,0.8,2c0.3,0.9,0.5,1.8,0.5,2.8c0,3.7-1.5,5.5-4.5,5.5H369.4z"/>
+<path class="st0" d="M462,93.8c0,4-0.7,7.6-2,10.9c-1.2,3.3-3.1,6.1-5.6,8.5c-2.4,2.3-5.4,4.2-9,5.4c-3.5,1.3-7.5,1.9-12.1,1.9  c-4.5,0-8.5-0.6-12.1-1.9c-3.5-1.3-6.5-3.1-9-5.4c-2.4-2.4-4.3-5.2-5.6-8.5c-1.2-3.3-1.9-6.9-1.9-10.9V47.5c0.5-0.2,1.4-0.3,2.4-0.5  c1.1-0.2,2.2-0.4,3.4-0.4c2.2,0,3.9,0.4,5,1.3c1.1,0.9,1.6,2.4,1.6,4.6v40.5c0,5.6,1.5,9.8,4.5,12.7c3.1,2.9,6.9,4.3,11.5,4.3  c2.3,0,4.5-0.4,6.4-1.1c1.9-0.8,3.6-1.9,5.1-3.3s2.6-3.2,3.4-5.3c0.9-2.1,1.3-4.6,1.3-7.4V47.5c0.5-0.2,1.4-0.3,2.4-0.5  c1.1-0.2,2.2-0.4,3.4-0.4c2.2,0,3.9,0.4,5,1.3c1.1,0.9,1.6,2.4,1.6,4.6V93.8z"/>
+<circle class="st1" cx="78" cy="26" r="26"/>
+<path class="st2" d="M78,67c-26.5,0-48-21.5-48-48C31.1,6,20,6,17,9.5c-0.2,0.2-0.4,0.4-0.7,0.7C6.1,23.5,0,40,0,58.1  c0,15.8,15,26,30.9,26h94.3c15.8,0,30.9-10.1,30.9-26c0-18-6.1-34.6-16.3-47.8c-0.2-0.3-0.4-0.5-0.7-0.7C136,6,124.9,6,126,19  C126,45.5,104.5,67,78,67z"/>
+<path class="st1" d="M86.2,145.2l21.9-31.5c4.6-6.6-0.1-15.7-8.2-15.7H78H56.1c-8.1,0-12.8,9.1-8.2,15.7l21.9,31.5  C73.8,150.9,82.2,150.9,86.2,145.2z"/>
 </svg>
