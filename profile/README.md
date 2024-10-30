@@ -6,60 +6,15 @@
 </a>
 </p>
 
-Hi, welcome to the Stability GitHub! ✋
-
-Here the development of the platform, planning and implementation of DeFi strategies, support of integrations and other activities related to the technical side of on-chain asset management take place. 🔨
-
 [<img src="https://raw.githubusercontent.com/stabilitydao/stability/main/chains.png" alt="Chains" />](https://stability.farm/chains)
 
-## Integrations
-
-### Live
-
-<div>
-<a href="https://chain.link"><img src="/assets/Chainlink.svg" width="50px" height="50px" alt="Chainlink"></a>
-<a href="https://thegraph.com"><img src="/assets/TheGraph.svg" width="50px" height="50px" alt="The Graph"></a>
-<a href="https://merkl.angle.money"><img src="/assets/Merkl.svg" width="50px" height="50px" alt="Merkl"></a>
-<a href="https://1inch.io"><img src="/assets/1inch.svg" width="50px" height="50px" alt="1inch"></a>
-<a href="https://quickswap.exchange"><img src="/assets/QuickSwap.svg" width="50px" height="50px" alt="QuickSwap"></a>
-<a href="https://uniswap.org"><img src="/assets/Uniswap.svg" width="50px" height="60px" alt="Uniswap V3"></a>
-<a href="https://curve.fi"><img src="/assets/Curve.svg" width="50px" height="50px" alt="Curve"></a>
-<a href="https://retro.finance"><img src="/assets/Retro.svg" width="50px" height="50px" alt="Retro"></a>
-<a href="https://www.defiedge.io"><img src="/assets/DefiEdge.svg" width="50px" height="50px" alt="DefiEdge"></a>
-<a href="https://www.ichi.org"><img src="/assets/Ichi.svg" width="50px" height="50px" alt="Ichi"></a>
-<a href="https://gamma.xyz"><img src="/assets/Gamma.svg" width="50px" height="50px" alt="Gamma"></a>
-<a href="https://www.convexfinance.com"><img src="/assets/Convex.svg" width="50px" height="50px" alt="Convex"></a>
-<a href="https://compound.finance"><img src="/assets/Compound.svg" width="50px" height="50px" alt="Compound"></a>
-<a href="https://aave.com"><img src="/assets/Aave.svg" width="50px" height="50px" alt="Aave"></a>
-<a href="https://yearn.fi"><img src="/assets/Yearn.svg" width="51px" height="50px" alt="Yearn"></a>
-<a href="https://stargate.finance"><img src="/assets/Stargate.svg" width="50px" height="50px" alt="Stargate"></a>
-<a href="https://lido.fi"><img src="/assets/Lido.svg" width="50px" height="50px" alt="Lido"></a>
-</div>
- 
-### Under development
-
-<div>
-<a href="https://steer.finance"><img src="/assets/Steer.svg" width="50px" height="50px" style="border-radius: 100%" alt="Steer"></a>
-<a href="https://www.staderlabs.com"><img src="/assets/Stader.svg" width="50px" height="50px" style="border-radius: 100%" alt="Stader Labs"></a>
-<a href="https://balancer.fi"><img src="/assets/Balancer.svg" width="50px" height="50px" style="border-radius: 100%" alt="Balancer"></a>
-<a href="https://gyro.finance"><img src="/assets/Gyroscope.svg" width="50px" height="50px" style="border-radius: 100%" alt="Gyroscope"></a>
-<a href="https://v2.tetu.io"><img src="/assets/Tetu.svg" width="50px" height="50px" alt="Tetu V2"></a>
-<a href="https://www.charm.fi"><img src="/assets/Charm.svg" width="50px" height="50px" alt="Charm"></a>
-<a href="https://baseswap.fi/"><img src="/assets/BaseSwap.svg" width="50px" height="50px" alt="BaseSwap"></a>
-<a href="https://a51.finance"><img src="/assets/A51.svg" width="50px" height="50px" alt="A51"></a>
-<a href="https://aura.finance"><img src="/assets/aura.png" width="50px" height="50px" alt="Aura"></a>
-<a href="https://www.sushi.com"><img src="/assets/sushi.svg" width="50px" height="50px" alt="Sushi"></a>
-<a href="https://beefy.com"><img src="/assets/beefy.svg" width="50px" height="50px" alt="Beefy"></a>
-
-</div>
+[<img src="https://raw.githubusercontent.com/stabilitydao/stability/main/integrations.png" alt="Integrations" />](https://stability.farm/integrations)
 
 ## 👷 Contributing
 
-We are constantly looking for contributors in the following areas.
-
 ### 💎 Smart contracts [repo](https://github.com/stabilitydao/stability-contracts)
 
-#### Stack
+<img src="https://img.shields.io/github/commit-activity/m/stabilitydao/stability-contracts" alt="Commit activity">
 
 <div>
 
@@ -69,17 +24,9 @@ We are constantly looking for contributors in the following areas.
 
 </div>
 
-#### Issues
-
 [<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/META%20ISSUE">](https://github.com/stabilitydao/stability-contracts/labels/META%20ISSUE)
 [<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/STRATEGY">](https://github.com/stabilitydao/stability-contracts/labels/STRATEGY)
-[<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/PLATFORM%20UPGRADE">](https://github.com/stabilitydao/stability-contracts/labels/PLATFORM%20UPGRADE)
-[<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/NETWORK">](https://github.com/stabilitydao/stability-contracts/labels/NETWORK)
-[<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/ADAPTER">](https://github.com/stabilitydao/stability-contracts/labels/ADAPTER)
-[<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/BASE%20STRATEGY">](https://github.com/stabilitydao/stability-contracts/labels/BASE%20STRATEGY)
-[<img src="https://img.shields.io/github/labels/stabilitydao/stability-contracts/STRATEGY%20UPGRADE">](https://github.com/stabilitydao/stability-contracts/labels/STRATEGY%20UPGRADE)
-
-[<img src="https://img.shields.io/github/issues-search/stabilitydao/stability-contracts?query=is%3Aissue%20is%3Aopen%20awaiting%20in%3Atitle%20label%3ASTRATEGY&style=for-the-badge&label=%F0%9F%93%9C%20Strategies%20awaiting%20the%20developer&labelColor=%23008800">](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+awaiting+in%3Atitle+label%3ASTRATEGY)
+[<img src="https://img.shields.io/github/issues-search/stabilitydao/stability-contracts?query=is%3Aissue%20is%3Aopen%20awaiting%20in%3Atitle%20label%3ASTRATEGY&label=%F0%9F%93%9C%20Strategies%20awaiting%20the%20developer&labelColor=%23008800">](https://github.com/stabilitydao/stability-contracts/issues?q=is%3Aissue+is%3Aopen+awaiting+in%3Atitle+label%3ASTRATEGY)
 
 #### Guides
 
@@ -87,6 +34,8 @@ We are constantly looking for contributors in the following areas.
 * **[Core Developer's Guide](./src/core/README.md)**
 
 ### 📦 Integration library [repo](https://github.com/stabilitydao/stability)
+
+<img src="https://img.shields.io/github/commit-activity/m/stabilitydao/stability" alt="Commit activity">
 
 ![NPM Version](https://img.shields.io/npm/v/%40stabilitydao%2Fstability?label=NPM%20version)
 ![GitHub Tag](https://img.shields.io/github/v/tag/stabilitydao/stability)
@@ -96,8 +45,7 @@ We are constantly looking for contributors in the following areas.
 
 ### 👩‍🚀 User interface [repo](https://github.com/stabilitydao/stability-ui)
 
-#### Stack
-
+[<img src="https://img.shields.io/github/commit-activity/m/stabilitydao/stability-ui" alt="Commit activity">](https://github.com/stabilitydao/stability-ui)
 <div>
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/stabilitydao/stability-ui?style=flat&logo=typescript&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Astro-black?style=flat&logo=astro">
@@ -107,13 +55,12 @@ We are constantly looking for contributors in the following areas.
 <img alt="Static Badge" src="https://img.shields.io/badge/Nano Stores-black?style=flat">
 </div>
 
-#### Issues
-- [📆 **Beta UI Q3 2024**](https://github.com/stabilitydao/stability-ui/issues/200)
-- [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/META%20ISSUE">](https://github.com/stabilitydao/stability-ui/labels/META%20ISSUE) [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/Enhancement ">](https://github.com/stabilitydao/stability-ui/labels/enhancement ) [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/Design%20System%20Integration">](https://github.com/stabilitydao/stability-ui/labels/design%20system%20integration )
+- [📆 **Beta UI Q4 2024**](https://github.com/stabilitydao/stability-ui/issues/239)
+- [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/META%20ISSUE">](https://github.com/stabilitydao/stability-ui/labels/META%20ISSUE) [<img src="https://img.shields.io/github/labels/stabilitydao/stability-ui/Enhancement ">](https://github.com/stabilitydao/stability-ui/labels/enhancement )
 
 ### 🧞 Subgraph [repo](https://github.com/stabilitydao/stability-subgraph)
 
-* [Required features 2024](https://github.com/stabilitydao/stability-subgraph/issues/12)
+[Required features 2024](https://github.com/stabilitydao/stability-subgraph/issues/12)
 
 ## 🔗 Links
 
