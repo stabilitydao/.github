@@ -1,6 +1,6 @@
 # Stability Platform MVP
 
-## [🔨 JANUARY 2025 🧊 Stability Development](https://github.com/orgs/stabilitydao/projects/6/views/1)
+## [🔨 FEBRUARY 2025 🧊 Stability Development](https://github.com/orgs/stabilitydao/projects/7)
 
 <p align="center">
 <a href="https://stability.farm">
