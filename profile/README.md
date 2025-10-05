@@ -1,6 +1,7 @@
-# Stability Platform MVP
+# Stability DAO
 
-## [🔨 Q3 2025 🧊 Stability Development](https://github.com/orgs/stabilitydao/projects/10)
+## [🔨 Q4 2025 🧊 Stability ALPHA Development](https://github.com/orgs/stabilitydao/projects/11)
+## [⛏️ 2026 🧊🟨 Stability BETA Development](https://github.com/orgs/stabilitydao/projects/12)
 
 <p align="center">
 <a href="https://stability.farm">
@@ -14,5 +15,5 @@
 
 - **Website**: [stability.farm](https://stability.farm)
 - **Documentation**: [Stability Book](https://stabilitydao.gitbook.io/stability)
-- **Socials**: [Twitter](https://twitter.com/stabilitydao), [Discord](https://discord.gg/TjuEkkaRQm), [Warpcast](https://warpcast.com/~/channel/stability), [Lens](https://hey.xyz/u/stabilitydao), [Telegram](https://t.me/stabilitydao)
-- **Tracking**: [DefiLlama](https://defillama.com/protocol/stability#information), [DappRadar](https://dappradar.com/dapp/stability), [TwitterScore](https://twitterscore.io/twitter/stabilitydao/)
+- **Socials**: [Twitter](https://twitter.com/stabilitydao), [Discord](https://discord.gg/TjuEkkaRQm), [Telegram](https://t.me/stabilitydao)
+- **Tracking**: [DefiLlama](https://defillama.com/protocol/stability#information), [TwitterScore](https://twitterscore.io/twitter/stabilitydao/)
